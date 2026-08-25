@@ -11,7 +11,7 @@ Difference between conventional design and design thinking; Design Thinking stag
 Stakeholder identification in civil projects – users, residents, workers, engineers, contractors, authorities, etc.; stakeholder mapping tools – influence-interest matrix and stakeholder network diagram; empathy tools – interview method and survey questionnaire preparation; empathy mapping and persona building; identification of user pain points and expectations; root-cause analysis tools – Fishbone diagram and 5-Why technique; writing a final problem statement with cost, safety, site, time, and environmental constraints; framing “How Might We (HMW)” statements. **(8P)**
 
 > 📌 **[Deliverable 2](Deliverable/2.md)**  
-> ** Problem Statement, 5-Why report, and HMW statement.
+> Problem Statement, 5-Why report, and HMW statement.
 
 **[Unit 3: Ideation, Concept Generation & Prototyping](Unit_3.md)**   
 Divergent and convergent thinking; brainstorming principles; ideation techniques – mind mapping, SCAMPER technique, Crazy-8 sketching, and morphological chart; concept screening and selection – feasibility analysis and decision matrix (weighted scoring); prototyping and visualization using sketches, layouts, mock-ups, scaled models, and digital prototypes using AutoCAD, SketchUp, AI tools, and Canva. **(8P)**
