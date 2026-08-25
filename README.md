@@ -12,7 +12,7 @@
 }
 </style> 
 
-![Design Thinking](Contents/Images/Design_Thinking.png)
+![Design Thinking](Contents/Images/DT_CE.png)
 
 ---
 
