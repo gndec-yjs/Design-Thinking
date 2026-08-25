@@ -1,5 +1,3 @@
-# Design Thinking
-
 | **[Contents](Contents/Content.md)** | **[Syllabus](Contents/Syllabus.md)** | **[Guidelines](Contents/Guidelines.md)** | **[Modules](Contents/Modules.md)** | **[Deliverables](Contents/Deliverables.md)** | **[Resources](Contents/Resources.md)** | **[Notifications](Contents/Notifications)** | **[Contact](Contents/Contact.md)** | 
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
