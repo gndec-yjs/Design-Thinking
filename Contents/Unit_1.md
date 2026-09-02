@@ -2,6 +2,7 @@
 
 [Difference between conventional design and design thinking](#3-conventional-design-vs-design-thinking); [Design Thinking stages – Observe, Define, Ideate, Prototype, Test, Improve](#4-the-design-thinking-process); [Field Observation and Problem Identification](#6-field-observation-and-problem-identification); [observation walks](#61-observation-walk), [site surveys](#62-site-survey), [photo documentation](#7-photo-documentation), [sketches and basic measurements](#8-sketches-and-basic-measurements)
 
+* [Overview](#unit-overview)
 * [Learning Objectives](#1-learning-objectives)
 * [What is Design Thinking?](#2-what-is-design-thinking)
 * [Design Thinking in Civil Engineering](#5-design-thinking-in-civil-engineering)
@@ -11,6 +12,10 @@
 * [Suggested Civil Engineering Problem Themes](#12-suggested-civil-engineering-problem-themes)
 * [Unit 1 Deliverable](#13-unit-1-deliverable)
 * [Key Takeaway](#14-key-takeaway)
+
+## Overview
+
+![Overview](Images/Unit_1_Overview.png)
 
 ## 1. Learning Objectives
 
