@@ -6,30 +6,23 @@
 * [Learning Objectives](#1-learning-objectives)
 * [Introduction](#2-introduction)
 * [Stakeholder Identification in Civil Projects](#3-stakeholder-identification-in-civil-projects)
-
   * [Users, Residents, Workers, Engineers, Contractors and Authorities](#31-users-residents-workers-engineers-contractors-and-authorities)
 * [Stakeholder Mapping Tools](#4-stakeholder-mapping-tools)
-
   * [Influence–Interest Matrix](#41-influenceinterest-matrix)
   * [Stakeholder Network Diagram](#42-stakeholder-network-diagram)
 * [Empathy Tools](#5-empathy-tools)
-
   * [Interview Method](#51-interview-method)
   * [Survey Questionnaire Preparation](#52-survey-questionnaire-preparation)
 * [Empathy Mapping and Persona Building](#6-empathy-mapping-and-persona-building)
-
   * [Empathy Mapping](#61-empathy-mapping)
   * [Persona Building](#62-persona-building)
 * [Identification of User Pain Points and Expectations](#7-identification-of-user-pain-points-and-expectations)
-
   * [User Pain Points](#71-user-pain-points)
   * [User Expectations](#72-user-expectations)
 * [Root-Cause Analysis Tools](#8-root-cause-analysis-tools)
-
   * [Fishbone Diagram](#81-fishbone-diagram)
   * [5-Why Technique](#82-5-why-technique)
 * [Writing the Final Problem Statement](#9-writing-the-final-problem-statement)
-
   * [Cost Constraints](#91-cost-constraints)
   * [Safety Constraints](#92-safety-constraints)
   * [Site Constraints](#93-site-constraints)
