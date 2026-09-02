@@ -2,6 +2,7 @@
 
 [Stakeholder identification in civil projects](#3-stakeholder-identification-in-civil-projects); [stakeholder mapping tools](#4-stakeholder-mapping-tools); [empathy tools](#5-empathy-tools); [empathy mapping and persona building](#6-empathy-mapping-and-persona-building); [identification of user pain points and expectations](#7-identification-of-user-pain-points-and-expectations); [root-cause analysis tools](#8-root-cause-analysis-tools); [writing a final problem statement with constraints](#9-writing-the-final-problem-statement); [framing How Might We HMW statements](#10-framing-how-might-we-hmw-statements)
 
+* [Overview](#unit-overview)
 * [Learning Objectives](#1-learning-objectives)
 * [Introduction](#2-introduction)
 * [Stakeholder Identification in Civil Projects](#3-stakeholder-identification-in-civil-projects)
@@ -39,6 +40,10 @@
 * [Unit 2 Activity](#11-unit-2-activity)
 * [Unit 2 Deliverable](#12-unit-2-deliverable)
 * [Key Takeaway](#13-key-takeaway)
+
+## Overview
+
+![Overview](Images/Unit_2_Overview.png)
 
 ## 1. Learning Objectives
 
