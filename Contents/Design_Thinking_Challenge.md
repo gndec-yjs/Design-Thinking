@@ -7,7 +7,7 @@
 ### 🔗 Quick Links
 
 * 📄 **[Student Submission Template](Templates/Design_Thinking_Challenge.docx)**
-* 📋 **[Submission Link]()**
+* 📋 **[Submission Link](https://forms.gle/vp3PzbgYmo3R8qUe6)**
 
 ---
 
