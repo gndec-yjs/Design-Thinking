@@ -1,7 +1,7 @@
 | **[Contents](Contents/Content.md)** | **[Syllabus](Contents/Syllabus.md)** | **[Course Overview](Overview.md)** | **[Guidelines](Contents/Guidelines.md)** | **[Deliverables](Contents/Deliverables.md)** | **[Resources](Contents/Resources.md)** | **[Notifications](Contents/Notifications)** | **[Contact](Contents/Contact.md)** | 
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
-🚨 [Design Thinking Challenge: Solving a Real Campus Problem - (Submission Due Date: September 12, 2026 (Saturday)](Contents/Design_Thinking_Challenge.md)
+🚨 [Design Thinking Challenge: Solving a Real Campus Problem - (Submission Due Date: September 12, 2026 (Saturday), 11:59 pm](Contents/Design_Thinking_Challenge.md)
 </span>
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
