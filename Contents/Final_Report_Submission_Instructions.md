@@ -8,7 +8,9 @@
 
 Each student shall prepare **one individual final project report** based on the civil engineering problem identified, analysed and presented in their individual Design Thinking poster.
 
-The report must document the complete Design Thinking journey through the **four prescribed course deliverables**. It should be a detailed account of the same problem and proposed solution—not a new or unrelated topic.
+The report must document the complete Design Thinking journey through the **four prescribed course deliverables**. It should provide a detailed account of the same problem and proposed solution—not a new or unrelated topic.
+
+**Important:** _Remember the distinction between conventional engineering design and Design Thinking. Do not begin with an assumed or obvious solution. Demonstrate how you understood the problem from the users' perspective, investigated its underlying causes, explored multiple possible solutions, and developed and refined a suitable concept through the Design Thinking process. The emphasis should be on the **process of discovering and developing a solution**, rather than merely presenting a final design._
 
 ## 📥 Download the Report Template
 
