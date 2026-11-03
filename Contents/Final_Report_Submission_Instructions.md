@@ -1,8 +1,8 @@
 # Design Thinking (ESCE102) — Final Report Submission Instructions
 
 > - **Submission Deadline:** November 11, 2026 (Wednesday) — 11:59 PM
-> - **Submission Link:** [Click Here to Submit the Final Report] (https://forms.gle/qWMDtQx8CjzsDzaaA)
-> - [**Download: Design Thinking Final Report Template (.docx)**](Templates/Design_Thinking_Final_Report_Template.docx)
+> - **Submission Link:** [Click Here to Submit the Final Report](https://forms.gle/qWMDtQx8CjzsDzaaA)
+> - **Download:** [**Design Thinking Final Report Template**](Templates/Design_Thinking_Final_Report_Template.docx)
 
 ## Individual Final Project Report
 
@@ -12,7 +12,7 @@ The report must document the complete Design Thinking journey through the **four
 
 ## 📥 Download the Report Template
 
-- [Download: Design Thinking Final Report Template (.docx)](Templates/Design_Thinking_Final_Report_Template.docx)
+- **Download:** [**Design Thinking Final Report Template**](Templates/Design_Thinking_Final_Report_Template.docx)
 
 Use the prescribed template and retain its four-deliverable structure.
 
