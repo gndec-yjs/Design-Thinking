@@ -100,9 +100,9 @@ Update the Table of Contents and lists of figures/tables, wherever applicable, b
 - Ensure that all text, figures and tables are readable and the PDF opens correctly.
 - Submit the report through the designated submission link.
 
-> **Submission Deadline: November 11, 2026 (Wednesday) — 11:59 PM**
-
-**Submission Link:** [Click Here to Submit the Final Report] (https://forms.gle/qWMDtQx8CjzsDzaaA)
+> - **Submission Deadline:** **November 11, 2026 (Wednesday) — 11:59 PM**
+> - **Submission Link:** **[Click Here to Submit the Final Report](https://forms.gle/qWMDtQx8CjzsDzaaA)**
+> - **Download:** [**Design Thinking Final Report Template**](Templates/Design_Thinking_Final_Report_Template.docx)
 
 ## ✅ Final Check Before Submission
 
